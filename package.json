@@ -1,0 +1,25 @@
+{
+  "name": "stripe-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxIrvine/stripe-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxIrvine/stripe-test/issues"
+  },
+  "homepage": "https://github.com/maxIrvine/stripe-test#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "stripe": "^4.24.0"
+  }
+}
